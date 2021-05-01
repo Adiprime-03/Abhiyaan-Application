@@ -1,0 +1,3 @@
+/home/adiprime/Abhiyaan_App_NA20B004/Section_B/B3/CMakeFiles/rebuild_cache.dir
+/home/adiprime/Abhiyaan_App_NA20B004/Section_B/B3/CMakeFiles/edit_cache.dir
+/home/adiprime/Abhiyaan_App_NA20B004/Section_B/B3/CMakeFiles/Q1.dir

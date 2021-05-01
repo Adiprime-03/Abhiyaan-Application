@@ -1,0 +1,2 @@
+pkg1:turtle
+-DCATKIN_DEVEL_PREFIX=/home/adiprime/Abhiyaan_App_NA20B004/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/adiprime/Abhiyaan_App_NA20B004/catkin_ws/install -G Unix Makefiles

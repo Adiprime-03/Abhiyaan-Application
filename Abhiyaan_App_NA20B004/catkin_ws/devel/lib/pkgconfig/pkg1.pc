@@ -1,0 +1,8 @@
+prefix=/home/adiprime/Abhiyaan_App_NA20B004/catkin_ws/devel
+
+Name: pkg1
+Description: Description of pkg1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
